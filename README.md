@@ -5,10 +5,8 @@ Bienvenido a mi perfil de GitHub. Me apasiona el desarrollo de software, la crea
 
 ## 🚀 Sobre Mí
 
-- 🔭 Actualmente estoy desarrollando un **sistema B2B para la gestión de mensajería e interacciones mediante la WhatsApp Cloud API**.
 - 💡 Me enfoco en escribir código limpio, dominar la arquitectura backend (manejo de webhooks en tiempo real) y entender el "por qué" de las tecnologías que utilizo.
 - 🌱 Siempre buscando optimizar procesos y aprender mejores prácticas de ingeniería de software.
-- 📫 ¿Quieres conectar? Puedes encontrarme en [LinkedIn](AQUI_TU_LINKEDIN) o enviarme un correo a [tu-correo@email.com](mailto:tu-correo@email.com).
 
 ## 💻 Mi Stack Tecnológico
 
@@ -30,9 +28,3 @@ Bienvenido a mi perfil de GitHub. Me apasiona el desarrollo de software, la crea
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
 </div>
 
-## 📊 Mis Estadísticas en GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElianGarcia01&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Elian" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianGarcia01&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150"/>
-</div>
