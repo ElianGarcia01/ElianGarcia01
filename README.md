@@ -9,7 +9,7 @@ Desarrollador de software enfocado en la creación de aplicaciones web escalable
 
 * **Arquitectura Backend e Integraciones:** Experiencia en el diseño de sistemas con Node.js y Express, implementando manejo avanzado de webhooks en tiempo real e integraciones con servicios de terceros (ej. Meta Graph API).
 * **Calidad de Código y Escalabilidad:** Priorizo el código limpio, la mantenibilidad y los fundamentos de la ingeniería de software para construir soluciones que soporten el crecimiento del negocio.
-* **Desarrollo Full-Stack:** Capacidad para gestionar y optimizar el ciclo de vida completo del dato, desde el diseño de esquemas en MongoDB hasta la creación de interfaces de usuario dinámicas con React.
+* **Desarrollo Full-Stack:** Capacidad para gestionar y optimizar el ciclo de vida completo del dato, desde el diseño de bases de datos y caché hasta la creación de interfaces de usuario dinámicas con React y Next.js.
 
 ---
 
@@ -23,9 +23,11 @@ Desarrollador de software enfocado en la creación de aplicaciones web escalable
 
 <br>
 
-**Frontend & Estilos:**
+**Frontend:**
 <div align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
@@ -36,13 +38,15 @@ Desarrollador de software enfocado en la creación de aplicaciones web escalable
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 <br>
 
-**Herramientas y Entorno:**
+**Testing, Herramientas y Entorno:**
 <div align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta API" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
