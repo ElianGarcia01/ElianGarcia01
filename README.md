@@ -31,4 +31,5 @@ Desarrollador de software enfocado en la creación de aplicaciones web escalable
   <img src="https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta API" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Antigravity-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
 </div>
