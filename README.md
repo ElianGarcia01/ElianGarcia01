@@ -8,7 +8,7 @@ Desarrollador de software enfocado en la creación de aplicaciones web escalable
 ## Enfoque Técnico
 
 * **Arquitectura Backend e Integraciones:** Experiencia en el diseño de sistemas con Node.js y Express, implementando manejo avanzado de webhooks en tiempo real e integraciones con servicios de terceros (ej. Meta Graph API).
-* **Calidad de Código y Escalabilidad:** Priorizo el código limpio, la mantenibilidad y los fundamentos de la ingeniería de software para construir soluciones que soporten el crecimiento del negocio.
+* **Calidad de Código y Escalabilidad:** Priorizo el código limpio, la aplicación de **patrones de diseño** y los fundamentos de la ingeniería de software para construir soluciones mantenibles que soporten el crecimiento del negocio.
 * **Desarrollo Full-Stack:** Capacidad para gestionar y optimizar el ciclo de vida completo del dato, desde el diseño de bases de datos y caché hasta la creación de interfaces de usuario dinámicas con React y Next.js.
 
 ---
@@ -48,6 +48,7 @@ Desarrollador de software enfocado en la creación de aplicaciones web escalable
 <div align="left">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" alt="Excalidraw" />
   <img src="https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta API" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
